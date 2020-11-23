@@ -1,4 +1,4 @@
-%title: Need a title 
+%title: Divulging your Social Profile 
 %author: @rachejazz   @h3ck#7334 
 %date: 2000-02-21
 
@@ -64,13 +64,19 @@
 
 [Google](https://google.com) *OSINTers' first  _*
 
-[Duckduckgo](https://duckduckgo.com)
+[Duckduckgo](https://duckduckgo.com) *If privacy concerns you, you'll love this duck!*
 
 [Yandex](https://yandex.com)
 
-[Bing](https://bing.com)
+[Bing](https://bing.com)  *Microsoft! Yay!*
 
-[Mentionmapp](https://analytics.mentionmapp.com/modules/free/)
+[Sputtr](http://www.sputtr.com/) *Not sure where to search?*
+
+[Mentionmapp](https://analytics.mentionmapp.com/modules/free) *get a twitter account today! if you haven't*
+
+---
+
+-> flashback time ... <-
 
 ---
 -> ➤ 𝗰 𝗮 𝘁  𝗽 𝗲 𝗼 𝗽 𝗹 𝗲 𝗼 𝘀 𝗶 𝗻 𝘁/𝘂 𝘀 𝗲 𝗿 𝗻 𝗮 𝗺 𝗲 <-
@@ -88,7 +94,36 @@
 
 [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/search_by_image)
 
-[Exif Data](https://exif.regex.info/exif.cgi)
+[Exif Data](http://exif.regex.info/exif.cgi )
+
+---
+-> ➤ 𝗰 𝗮 𝘁  𝗶 𝗽 𝗹 𝗼 𝗰 𝗮 𝘁 𝗶 𝗼 𝗻/ ✱ <-
+
+## Geolocation from image metadata
+
+[Snapchat](https://map.snapchat.com)
+
+[Google Maps](https://www.google.com/maps)
+
+---
+-> ➤ 𝗰 𝗮 𝘁   𝘄 𝗲 𝗯 𝗱 𝗼 𝗺 𝗮 𝗶 𝗻 𝗼 𝘀 𝗶 𝗻 𝘁/ ✱ <-
+
+*Ownership*
+[Whois Lookup](https://whois.domaintools.com)
+[DNSLytics](https://dnslytics.com)
+[Webarchive](web.archive.org)
+
+*Crawlers*
+[Wappalyzer](https://wappalyzer.com)
+[BuiltWith](https://builtwith.com)
+
+*Media Profiles*
+[LinkedIn](https://linkedin.com) 
+[Twitter](https://twitter.com)
+
+---
+
+## BUT I STILL NEED TO ENQUIRE ABOUT RACHEL HOLMES!!
 
 ---
 -> ➤ 𝗰 𝗮 𝘁  𝗽 𝗲 𝗼 𝗽 𝗹 𝗲 𝗼 𝘀 𝗶 𝗻 𝘁/𝗲 𝗺 𝗮 𝗶 𝗹 𝘀 <-
@@ -106,38 +141,16 @@
 
 [Truecaller](https://truecaller.com)
 
-[Phoneinfoga](https://demo.phoneinfoga.crvx.fr)
+[Phoneinfoga](https://github.com/sundowndev/PhoneInfoga)
 
----
--> ➤ 𝗰 𝗮 𝘁   𝘄 𝗲 𝗯 𝗱 𝗼 𝗺 𝗮 𝗶 𝗻 𝗼 𝘀 𝗶 𝗻 𝘁/ ✱ <-
-
-*Ownership*
-[Whois Lookup](https://whois.domaintools.com)
-[DNS Lookup](https://linux.die.net/man/1/dig)
-
-*Media Profiles*
-[LinkedIn](https://linkedin.com) 
-[Twitter](https://twitter.com)
-
-*Crawlers*
-[Wappalyzer](https://wappalyzer.com)
-[Photon](https://github.com/s0md3v/Photon)
-
----
--> ➤ 𝗰 𝗮 𝘁  𝗶 𝗽 𝗹 𝗼 𝗰 𝗮 𝘁 𝗶 𝗼 𝗻/ ✱ <-
-
-*Geo feeds*
-[Snapchat](https://map.snapchat.com)
-[Trendsmap](https://trendsmap.com)
-## Geolocation from image metadata
-
-*Explore IoT world*
-[Shodan](https://shodan.io)
 
 ---
 -> ❗𝗧 𝗛 𝗘   𝗠 𝗢 𝗥 𝗘   𝗧 𝗛 𝗘   𝗠 𝗘 𝗥 𝗥 𝗜 𝗘 𝗥❗ <-
 
 *Other Interesting tools (for the curious ones)*
+[Maltego](https://www.maltego.com/blog)
+
+[Trendsmap](https://trendsmap.com)
 
 [Flight Tracker](https://radarbox.com)
 
@@ -155,8 +168,9 @@
 [Awareonline](https://aware-online.com/osint-tools)
 
 *Take The Feel Of Breached Data/Creds*
+[HaveIBeenPwned?](https://haveibeenpwned.com)
 [DORKING! FINALLY!](https://support.google.com/websearch/answer/2466433)
-[Dork Links](https://exploit-db.com/google-hacking-database)
+[Dork Links](https://exploit-db.com/google-hacking-database )
 
 ---
 -> ➤ 𝗔 𝗠 \ 𝗜\ 𝗦 𝗔 𝗙 𝗘 = "𝗳 𝗮 𝗹 𝘀 𝗲" <-
@@ -171,6 +185,8 @@
 
 -> ## Not as long as your mind doesn't turn acid <-
 -> ## Stay Ethical <-
+-> ## Be Respectful <-
+-> ## NEVER publicize your OSINT reports <-
 
 ---
 
@@ -191,7 +207,7 @@
 
 
 
--> Thank you. <-
+-> 🖥  Thank you 🖥 <-
 
 
 
