@@ -52,9 +52,8 @@
 ## Whois Lookups
 ## Tech used by creator
 > *Using IP*
-## Wireless Network OSINT
+## Social Network OSINT
 ## Geolocation OSINT
-## IOT Devices
 >*Others*
 ## Breached Data OSINT
 
@@ -79,12 +78,23 @@
 -> flashback time ... <-
 
 ---
+
+-> Hold on ... <-
+
+
+-> Fancy a small shout out challenge? ;D <-
+
+-> Can you find out the con man faster than me? <-
+
+-> Hint1: I found out they own a "Google" Account <-
+
+-> Hint2: Hidden in my talk (somewhere) :P <-
+
+---
 -> ➤ 𝗰 𝗮 𝘁  𝗽 𝗲 𝗼 𝗽 𝗹 𝗲 𝗼 𝘀 𝗶 𝗻 𝘁/𝘂 𝘀 𝗲 𝗿 𝗻 𝗮 𝗺 𝗲 <-
 
 
 [Check Usernames](https://checkusernames.com)
-
-[instant usernames](https://instantusername.com)
 
 [Search POF](https://searchpof.com)
 
@@ -123,7 +133,7 @@
 
 ---
 
-## BUT I STILL NEED TO ENQUIRE ABOUT RACHEL HOLMES!!
+-> ## BUT I STILL NEED TO ENQUIRE ABOUT RACHEL HOLMES!! <-
 
 ---
 -> ➤ 𝗰 𝗮 𝘁  𝗽 𝗲 𝗼 𝗽 𝗹 𝗲 𝗼 𝘀 𝗶 𝗻 𝘁/𝗲 𝗺 𝗮 𝗶 𝗹 𝘀 <-
@@ -132,8 +142,6 @@
 [Hunter.io](https://hunter.io/search)
 
 [Phonebook](https://phonebook.cz)
-
-[Email Permutator](https://metricsparrow.com/toolkit/email-permutator)
 
 ---
 -> ➤ 𝗰 𝗮 𝘁  𝗽 𝗲 𝗼 𝗽 𝗹 𝗲 𝗼 𝘀 𝗶 𝗻 𝘁/𝗽 𝗵 𝗼 𝗻 𝗲 𝗻 𝘂 𝗺 𝗯 𝗲 𝗿 𝘀 <-
@@ -187,6 +195,10 @@
 -> ## Stay Ethical <-
 -> ## Be Respectful <-
 -> ## NEVER publicize your OSINT reports <-
+
+---
+
+-> Did you find out yet? <-
 
 ---
 
